@@ -18,12 +18,13 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 - [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/2.8-fibonacci_sum_squares.py)
 
 ### Week 3 - Greedy Algorithms ([PDF](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Assignment-Descriptions/week3_greedy_algorithms.pdf))
-- Money Change
-- Maximum Value of the Loot (Fractional Knapsack)
-- Maximum Advertisement Revenue (Maximum Dot Product)
-- Collecting Signatures (Covering Segments by Points)
-- Maximum Number of Prizes (Different Summands)
-- Maximum Salary (Largest Number)
+- [Money Change](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/3.1-change.py)
+- [Maximum Value of the Loot (Fractional Knapsack)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/3.2-fractional_knapsack.py)
+- [Car Fueling](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/3.3-car_fueling.py)
+- [Maximum Advertisement Revenue (Maximum Dot Product)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/3.4-dot_product.py)
+- [Collecting Signatures (Covering Segments by Points)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/3.5-covering_segments.py)
+- [Maximum Number of Prizes (Different Summands)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/3.6-different_summands.py)
+- [Maximum Salary (Largest Number)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/3.7-largest_number.py)
 
 ### Week 4 - Divide and Conquer ([PDF](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Assignment-Descriptions/week4_divide_and_conquer.pdf))
 - Binary Search
