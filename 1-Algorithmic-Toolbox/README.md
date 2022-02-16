@@ -27,11 +27,12 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 - [Maximum Salary (Largest Number)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/3.7-largest_number.py)
 
 ### Week 4 - Divide and Conquer ([PDF](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Assignment-Descriptions/week4_divide_and_conquer.pdf))
-- Binary Search
-- Majority Element
-- Improving QuickSort
-- Inversions
-- Organizing a Lottery
+- [Binary Search](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.1-binary_search.py)
+- [Binary Search With Duplicates](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.2-binary_search_duplicate.py)
+- [Majority Element](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.3-majority_element.py)
+- [Improving QuickSort](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.4-sorting.py)
+- [Number of Inversions](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.5-inversions.py)
+- [Organizing a Lottery](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.6-points_and_segments.py)
 - Closest Points
 
 ### Week 5 - Dynamic Programming 1 ([PDF](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Assignment-Descriptions/week5_dynamic_programming1.pdf))
