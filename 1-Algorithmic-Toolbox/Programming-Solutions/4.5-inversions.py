@@ -1,16 +1,5 @@
 import sys
 
-def get_number_of_inversions(a, b, left, right):
-    number_of_inversions = 0
-    if right - left <= 1:
-        number_of_inversions += 1
-        return number_of_inversions
-    ave = (left + right) // 2
-    number_of_inversions += get_number_of_inversions(a, b, left, ave)
-    number_of_inversions += get_number_of_inversions(a, b, ave, right)
-    #write your code here
-    return number_of_inversions
-
 
 def merge(array, left, right):
     inversions = 0
