@@ -36,13 +36,13 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 - Closest Points
 
 ### Week 5 - Dynamic Programming 1 ([PDF](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Assignment-Descriptions/week5_dynamic_programming1.pdf))
-- Money Change Again
-- Primitive Calculator
-- Edit Distance
+- [Money Change Again](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/5.1-change_dp.py)
+- [Primitive Calculator](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/5.2-primitive_calculator.py)
+- [Edit Distance](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/5.3-edit_distance.py)
 - Longest Common Subsequence of Two Sequence
 - Longest Common Subsequence of Three Sequence
 
 ### Week 6 - Dynamic Programming 2 ([PDF](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Assignment-Descriptions/week6_dynamic_programming2.pdf))
 - [Maximum Amount of Gold](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/6.1-knapsack.py)
-- Partitioning Souvenirs
+- [Partitioning Souvenirs](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/6.2-partition3.py)
 - Maximum Value of an Arithmetic Expression
