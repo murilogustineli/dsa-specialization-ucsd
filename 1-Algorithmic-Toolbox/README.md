@@ -43,6 +43,6 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 - Longest Common Subsequence of Three Sequence
 
 ### Week 6 - Dynamic Programming 2 ([PDF](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Assignment-Descriptions/week6_dynamic_programming2.pdf))
-- [Maximum Amount of Gold](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/6.1-knapsack.py)
-- [Partitioning Souvenirs](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/6.2-partition3.py)
+- [Maximum Amount of Gold (Knapsack)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/6.1-knapsack.py)
+- [Partitioning Souvenirs (Partition3)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/6.2-partition3.py)
 - Maximum Value of an Arithmetic Expression
