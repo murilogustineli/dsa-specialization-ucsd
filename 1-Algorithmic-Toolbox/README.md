@@ -30,9 +30,9 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 - [Binary Search](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.1-binary_search.py)
 - [Binary Search With Duplicates](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.2-binary_search_duplicate.py)
 - [Majority Element](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.3-majority_element.py)
-- [Improving QuickSort](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.4-sorting.py)
-- [Number of Inversions](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.5-inversions.py)
-- [Organizing a Lottery](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.6-points_and_segments.py)
+- [Improving QuickSort (Sorting)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.4-sorting.py)
+- [Number of Inversions (Inversions)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.5-inversions.py)
+- [Organizing a Lottery (Points and Segments)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/4.6-points_and_segments.py)
 - Closest Points
 
 ### Week 5 - Dynamic Programming 1 ([PDF](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Assignment-Descriptions/week5_dynamic_programming1.pdf))
