@@ -46,3 +46,4 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 - [Maximum Amount of Gold (Knapsack)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/6.1-knapsack.py)
 - [Partitioning Souvenirs (Partition3)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/1-Algorithmic-Toolbox/Programming-Solutions/6.2-partition3.py)
 - Maximum Value of an Arithmetic Expression
+
