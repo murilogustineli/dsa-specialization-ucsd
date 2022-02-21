@@ -5,3 +5,4 @@ This repository contains all the assignments and their solutions for the course 
 
 ### Week 1 - Basic Data Structures [(PDF)](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/2-Data-Structures/Assignment-Descriptions/week1_basic_data_structures.pdf)
 - [Check Brackets in Code](https://github.com/murilogustineli/Data-Structures-and-Algorithms/blob/main/2-Data-Structures/Programming-Solutions/1.1-check_brackets.py)
+
