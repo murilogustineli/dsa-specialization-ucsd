@@ -1,6 +1,8 @@
 # Data Structures and Algorithms Specialization
 This repo is dedicated to tracking my progress in the [**Data Structures and Algorithms Specialization**](https://www.coursera.org/specializations/data-structures-algorithms) offered on Coursera.
 
+
+![alt text](https://github.com/murilogustineli/DSA-Specialization-UCSD/blob/main/DSA_logo.png?raw=true)
 <br>
 
 There are 6 Courses in this Specialization
